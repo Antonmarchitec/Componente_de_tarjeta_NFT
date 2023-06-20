@@ -25,3 +25,4 @@ Sería genial que compartieras tu resultado con nuestra comunidad, así aprendem
 
 
 ### Imagen proyecto:
+![TARGET_23](https://github.com/Antonmarchitec/Componente_de_tarjeta_NFT/assets/70084380/89c4e11f-570a-426b-a8e0-4692d599feb8)
